@@ -1,2 +1,0 @@
-# dailycalendar
-simple calendar app
